@@ -1,0 +1,15 @@
+ls - 	Kod wyjściowy:
+ 	0  jeżeli bez błędów,
+ 	1  przy drobnych problemach (np. brak dostępu do podkatalogu),
+ 	2  przy poważnych problemach (np. brak dostępu do podanego argumentu).
+
+tree - 	--gitignore
+              Uses git .gitignore files for filtering files and directo‐
+              ries.  Also uses $GIT_DIR/info/exclude if present.
+
+cp -	‘--symbolic-link’
+     	Make symbolic links instead of copies of non-directories.  All
+     	source file names must be absolute (starting with ‘/’) unless the
+     	destination files are in the current directory.  This option merely
+     	results in an error message on systems that do not support symbolic
+     	links.
