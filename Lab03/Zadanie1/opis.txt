@@ -1,0 +1,3 @@
+Przekierowania wyjścia:
+> przkierowuje standardowe wyjście do pliku nadpisując go
+>> przkierowuje standardowe wyjście konkatenując dane do pliku
