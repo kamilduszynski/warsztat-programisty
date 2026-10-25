@@ -1,0 +1,9 @@
+Wiele plików można łączyć za pomocą polecenia cat
+Przykładowo mamy pliki logów z każdego dnia miesiąca:
+syslog.txt
+syslog1.txt
+syslog2.txt
+...
+syslog30.txt
+
+cat syslog**.txt > october_syslog.txt
